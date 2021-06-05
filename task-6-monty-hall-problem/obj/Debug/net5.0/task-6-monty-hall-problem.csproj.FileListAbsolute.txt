@@ -1,0 +1,16 @@
+C:\Users\79644\source\repos\task-6-monty-hall-problem\bin\Debug\net5.0\task-6-monty-hall-problem.exe
+C:\Users\79644\source\repos\task-6-monty-hall-problem\bin\Debug\net5.0\task-6-monty-hall-problem.deps.json
+C:\Users\79644\source\repos\task-6-monty-hall-problem\bin\Debug\net5.0\task-6-monty-hall-problem.runtimeconfig.json
+C:\Users\79644\source\repos\task-6-monty-hall-problem\bin\Debug\net5.0\task-6-monty-hall-problem.runtimeconfig.dev.json
+C:\Users\79644\source\repos\task-6-monty-hall-problem\bin\Debug\net5.0\task-6-monty-hall-problem.dll
+C:\Users\79644\source\repos\task-6-monty-hall-problem\bin\Debug\net5.0\ref\task-6-monty-hall-problem.dll
+C:\Users\79644\source\repos\task-6-monty-hall-problem\bin\Debug\net5.0\task-6-monty-hall-problem.pdb
+C:\Users\79644\source\repos\task-6-monty-hall-problem\obj\Debug\net5.0\task-6-monty-hall-problem.csprojAssemblyReference.cache
+C:\Users\79644\source\repos\task-6-monty-hall-problem\obj\Debug\net5.0\task-6-monty-hall-problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79644\source\repos\task-6-monty-hall-problem\obj\Debug\net5.0\task-6-monty-hall-problem.AssemblyInfoInputs.cache
+C:\Users\79644\source\repos\task-6-monty-hall-problem\obj\Debug\net5.0\task-6-monty-hall-problem.AssemblyInfo.cs
+C:\Users\79644\source\repos\task-6-monty-hall-problem\obj\Debug\net5.0\task-6-monty-hall-problem.csproj.CoreCompileInputs.cache
+C:\Users\79644\source\repos\task-6-monty-hall-problem\obj\Debug\net5.0\task-6-monty-hall-problem.dll
+C:\Users\79644\source\repos\task-6-monty-hall-problem\obj\Debug\net5.0\ref\task-6-monty-hall-problem.dll
+C:\Users\79644\source\repos\task-6-monty-hall-problem\obj\Debug\net5.0\task-6-monty-hall-problem.pdb
+C:\Users\79644\source\repos\task-6-monty-hall-problem\obj\Debug\net5.0\task-6-monty-hall-problem.genruntimeconfig.cache
