@@ -1,0 +1,13 @@
+C:\Users\облепиха\source\repos\task-4-greedy\bin\Debug\netcoreapp3.1\task-4-greedy.exe
+C:\Users\облепиха\source\repos\task-4-greedy\bin\Debug\netcoreapp3.1\task-4-greedy.deps.json
+C:\Users\облепиха\source\repos\task-4-greedy\bin\Debug\netcoreapp3.1\task-4-greedy.runtimeconfig.json
+C:\Users\облепиха\source\repos\task-4-greedy\bin\Debug\netcoreapp3.1\task-4-greedy.runtimeconfig.dev.json
+C:\Users\облепиха\source\repos\task-4-greedy\bin\Debug\netcoreapp3.1\task-4-greedy.dll
+C:\Users\облепиха\source\repos\task-4-greedy\bin\Debug\netcoreapp3.1\task-4-greedy.pdb
+C:\Users\облепиха\source\repos\task-4-greedy\obj\Debug\netcoreapp3.1\task-4-greedy.csprojAssemblyReference.cache
+C:\Users\облепиха\source\repos\task-4-greedy\obj\Debug\netcoreapp3.1\task-4-greedy.AssemblyInfoInputs.cache
+C:\Users\облепиха\source\repos\task-4-greedy\obj\Debug\netcoreapp3.1\task-4-greedy.AssemblyInfo.cs
+C:\Users\облепиха\source\repos\task-4-greedy\obj\Debug\netcoreapp3.1\task-4-greedy.csproj.CoreCompileInputs.cache
+C:\Users\облепиха\source\repos\task-4-greedy\obj\Debug\netcoreapp3.1\task-4-greedy.dll
+C:\Users\облепиха\source\repos\task-4-greedy\obj\Debug\netcoreapp3.1\task-4-greedy.pdb
+C:\Users\облепиха\source\repos\task-4-greedy\obj\Debug\netcoreapp3.1\task-4-greedy.genruntimeconfig.cache
